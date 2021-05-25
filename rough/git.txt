@@ -1,0 +1,15 @@
+Jafer@LAPTOP-GO6HDJR2 MINGW64 /d/DevOps/DevOps (main)
+$ git config --global user.name "Jafer"
+
+Jafer@LAPTOP-GO6HDJR2 MINGW64 /d/DevOps/DevOps (main)
+$ git config --global user.email "iamfaizaljafer@gmail.com"
+
+Jafer@LAPTOP-GO6HDJR2 MINGW64 /d/DevOps/DevOps (main)
+$ git config --global core.e
+core.editor         core.eol            core.excludesFile
+
+Jafer@LAPTOP-GO6HDJR2 MINGW64 /d/DevOps/DevOps (main)
+$ git config --global core.editor Vim
+
+Jafer@LAPTOP-GO6HDJR2 MINGW64 /d/DevOps/DevOps (main)
+$ git config --list
